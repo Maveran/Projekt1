@@ -14,4 +14,16 @@ let product = document.getElementById("product_name").value;
   btn.type = "submit";
   btn.name = "deleteBtn";
   btn.classList.add("delete-button");
+
+  var btn = document.createElement("button");
+  btn.innerHTML = "Delete";
+  btn.type = "submit";
+  btn.name = "deleteBtn";
+  btn.classList.add("delete-button");
+
+  var btn = document.createElement("button");
+  btn.innerHTML = "Delete";
+  btn.type = "submit";
+  btn.name = "deleteBtn";
+  btn.classList.add("delete-button");
 ```
