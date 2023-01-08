@@ -14,8 +14,6 @@ while i < 4:
     a = int(input(str("please input your number ")))
     print("your number is: " + str(a))
 
-    
-
     inputlist.append(a)
 
     print("inputs", inputlist)
