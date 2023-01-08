@@ -27,3 +27,7 @@ let product = document.getElementById("product_name").value;
   btn.name = "deleteBtn";
   btn.classList.add("delete-button");
 ```
+
+```ruby
+@companies_sorted = Company.all.sort(:asc)
+```
