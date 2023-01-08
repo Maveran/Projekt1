@@ -18,3 +18,5 @@ while i < 4:
 
     print("inputs", inputlist)
     i += 1;
+
+print("testowanie")
